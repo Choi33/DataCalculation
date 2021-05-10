@@ -24,7 +24,7 @@ public class Main {
                 test.Inputsub();
                 test.SubDay();
                 System.out.println("기준 일로부터 "+test.sub_day+
-                        " 일 전은 "+test.year+"."+test.month+"."+test.day);
+                        " 일 전은 "+test.year+"."+test.month+"."+test.day+"이다");
                 break; // 빼기 같은 경우 기준일을 포함하지 않는다.
         } //switch의 끝
     } //main함수의 끝
