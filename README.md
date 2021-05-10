@@ -8,12 +8,12 @@
   <li> 한국어만 지원됩니다. &nbsp (This program only offer Korean)</li>
   <br>
   <li> 실행화면 - 날짜 더하기 <br>
-       <img src="날짜더하기.PNG"
+       <img src="날짜더하기.PNG" alt="Execute img">
   </li>
   <br>
   <br>
   <li> 실행화면 - 날짜 빼기 <br>
-      <img src="날짜빼기.PNG"
+      <img src="날짜빼기.PNG"  alt="Execute img">
   </li>
 </ul>
 
